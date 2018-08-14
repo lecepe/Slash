@@ -1,6 +1,6 @@
 <!DOCTYPE theatre script>
 
-		<title>.htaccess</title>
+		<title>Slash</title>
 
 <infos>
 version: Alpha 1.0
