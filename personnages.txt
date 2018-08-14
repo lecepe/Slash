@@ -1,0 +1,9 @@
+<!DOCTYPE characters script>
+<script>
+<head>
+
+<meta charset="UTF-8">
+  <title>Description des personnages</title>
+
+<div>
+<p>Arthur : Personnage principal.

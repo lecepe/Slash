@@ -1,0 +1,5 @@
+//////Scripts shell/////////
+
+<upload-data-manager> Un petit script qui doit permettre d'afficher la phrase suivante (ou assimilée) "Upload data from /target/pierre_eynard to network?" lorsque la comédienne à tapé la commande suivante (ou assimilée) sur son terminal. Puis elle tapera "No" ce qui fermera le programme.
+
+

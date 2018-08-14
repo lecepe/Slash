@@ -1,0 +1,6 @@
+/////Décors/////
+
+
+1: Une table (ou bureau), une chaise, un écran derrière le bureau où est projeté la vidéo (voir video.txt).
+
+

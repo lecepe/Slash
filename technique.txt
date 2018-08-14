@@ -1,0 +1,13 @@
+////Technique////
+
+
+1. Vidéos : Pour autant que faire se peut, la video ne diffusera exclusivement que l'odinateur de la comédienne. S'il ya des vidéos spécifiques à ce spectacle à ajouter, ce devra être à elle de la lancer depuis son ordinateur. 
+
+2. Son : sauf avis contraire dans le script, le son sera lancée par la comédienne elle-même depuis son ordinateur, et de la même manière que la video.
+
+3. Ordinateur : Il doit être équipé d'une version de Kali Linux avec un fond d'écran associé. C'est juste pour le style, à vous d'adapter :-)
+
+4. Scripts : Il s'agit d'une liste d'opération en ligne de commande que la comédienne devra faire lors du spectacles à des moments précis. 
+
+
+
