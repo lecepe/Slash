@@ -28,11 +28,11 @@ author="Florian Delgado"
 
 	<Prologue name="nothing_to_hyde">
 
-<did link="/scripts/intro.sh"; "decors: 1"; "access: 1"> Musique. *est assise en train de pianoter sur son ordinateur lorsque le public rentre. Elle ne leur prête aucune attention, elle continue son travail. De temps en temps, elle donne des coups d'oeils furtifs sur le public. Lorsque tout le monde est assis, elle arrête de pianoter, regarde le public puis coupe la musique. Elle laisse un temps de silence.</did>
+<did link="/scripts/intro.sh"; "decors: 1"; "access: 1"> Musique. Slash est assise en train de pianoter sur son ordinateur lorsque le public rentre. Elle ne leur prête aucune attention, elle continue son travail. De temps en temps, elle donne des coups d'oeils furtifs sur le public. Lorsque tout le monde est assis, elle arrête de pianoter, regarde le public puis coupe la musique. Elle laisse un temps de silence.</did>
 
 <dial>
 <Slash> Avez-vous déjà prononcé cette phrase : "Moi, je m'en fous, je n'ai rien à cacher!"? <silence> Et ensuite vous-êtes vous demandé si vous aviez vraiment pensé ce que vous veniez de dire? <silence> Si je vous disais qu'à la seconde où vous vous êtes mis dans les fauteuils de cette salle, je savais déjà tout de vous? Le croiriez-vous? A votre avis? Est-ce que je bluffe? Est-ce que je bluff, M... <did>Elle consulte une liste dans un dossier nommé de la date du spectacle. On voit pleins de dossiers des noms des spectateurs (1ère utilisation des données du formulaire)<did> 
-Pierre Eynard n° de sécurité sociale 1 74 03 198 054, habitant 35, avenue Gambetta, 3ème étage gauche, marié, un enfant et un adorable petit chat répondant au doux nom de... croquette? Vous cultivez un goût prononcé pour la musique jazz, et lorsque votre femme s'en va et que vous êtes seul, vous aimez vous rendre sur des forums particulièrements ambigües. Vous avez acheté, pas plus tard qu'hier un bouquet de fleurs que vous avez payé 35 euros pour votre femme. Pas énorme si on considère ce que vous êtes prêt à mettre pour d'autres personnes...
+Pierre Eynard n° de sécurité sociale 1 74 03 198 054, habitant 35, avenue Gambetta, 3ème étage gauche, marié, un enfant et un adorable petit chat répondant au doux nom de... croquette? Vous cultivez un goût prononcé pour la musique jazz, et lorsque votre femme s'en va et que vous êtes seul, vous aimez vous rendre sur des forums particulièrements ambigües. Vous avez acheté, pas plus tard qu'hier un bouquet de fleurs pour votre épouse que vous avez payé 35 euros. Pas énorme si on considère ce que vous êtes prêt à mettre pour d'autres personnes...
 
 <Pierre Eynard> Stop! ça suffit! c'est quoi ce cirque? Vous vous prenez pour qui? Vous savez que ce que vous avez fait va vous envoyer en prison? Je me casse d'ici! C'est pas un spectacle, c'est une escroquerie!
  
@@ -44,17 +44,17 @@ Pierre Eynard n° de sécurité sociale 1 74 03 198 054, habitant 35, avenue Gam
 
 <Slash>Vous n'irez nul part. Vous allez vous rassoir. Tout de suite. Vous n'imaginez pas ce que vous pourriez perdre en passant cette porte. Pour le moment, vos données, TOUTES vos données sont ici, dans mon disque dur. Mais imaginez un seul instant qu'elles soient divulguées, à votre patron par exemple. Si cela ne suffit pas souhaitez-vous que je divulgue au monde entier le contenu de vos échanges mails et texto avec certaines personnes? Vous voyez de qui je veux parler, Pierre?
 
-<did>Pierre Eynard d'arrête vif. il se retourne et regarde Slash comme si il voulait la tuer</did>
+<did>Pierre Eynard s'arrête vif. il se retourne et regarde Slash comme si il voulait la tuer</did>
 
 <Pierre Eynard> Qu'est-ce que vous voulez ?
 
-<Slash>Votre attention, Pierre. Simplement votre attention. Si vous êtes coopératifs et que tout se passe bien, je vous promet que personnes n'aura accès à rien du tout. En tout cas pas par ma faute. Ce que je sais de vous restera dans ma mémoire et je finirai par l'éffacer pour faire de la place pour autre chose. 
+<Slash>Votre attention, Pierre. Simplement votre attention. Si tout se passe bien, je vous promet que personnes n'aura accès à rien du tout. En tout cas, pas par ma faute. Ce que je sais de vous restera dans ma mémoire et je finirai par l'éffacer pour faire de la place pour autre chose. 
 
 <Une spectatrice>C'est quoi cette histoire? Vous nous avez volé nos données? 
 
 <Slash>J'ai tout, Charlotte... Vos mots de passe, vos coordonnées bancaires, vos numéros de CB vos comptes Facebook, Gmail, Twitter, Instagram et autres. <did>s'adressant à toute l'assemblée</did>Je sais ce que vous faites chaque jour. Je sais quels sont vos vices, quelles sont vos peurs, avec qui vous trompez votre conjoint, combien de miliers d'euros vous avez soustrait au FISC, combien vous dépensez en calmants, quelle maladie vous avez... Je sais tout de vous. Et si je me creuse un peu la cervelle, je suis pratiquement certaine de pouvoir prédire ce que vous allez faire demain. 
 
-<Sabine Eynard>C'est quoi cette histoire de forum et de personne, Pierre?
+<Sabine Eynard>C'est quoi cette histoire de forum et de "certaines personnes", Pierre?
 <Pierre Eynard -tout-bas->C'est pas le moment, ma chérie, on en parelera en rentrant si tu veux mais pas ici.
 <Sabine Eynard>Tu me trompes, c'est ça?
 
@@ -70,7 +70,7 @@ Pierre Eynard n° de sécurité sociale 1 74 03 198 054, habitant 35, avenue Gam
 
 <did>Puis Slash tape la commande "No" et attend un instant avant d'appuyer sur "Entrée".
 
-<Slash>Je vais vous confier quelque chose. Il me suffit d'une toute petite ligne de commande pour ruiner instantanément vos vies. Juste une phrase. Une simple instruction donné à ma machine et  qu'elle executera avec toute la bonne volonté du monde. Voila ce qu'est le pouvoir aujourd'hui. Il n'appartient plus à ceux qui gouvernent. Mais à ceux qui savent parler aux machines. Et vous, savez-vous leur parler à celles qui oeuvrent tous les jours à vous combler? Savez-vous que les machines se parlent entre elles? Qu'est-ce qu'elles peuvent bien se raconter? Ça ne vous donne pas envie de savoir? Moi, si... 
+<Slash>Ça a quelque chose de magique, vous ne trouvez pas? Il me suffit d'une toute petite ligne de commande pour ruiner instantanément vos vies. Juste une phrase. Une simple instruction donnée à ma machine et  qu'elle executera avec toute la bonne volonté du monde. Voila ce qu'est le pouvoir aujourd'hui. Il n'appartient plus à ceux qui gouvernent. Mais à ceux qui savent parler aux machines. Et vous, savez-vous leur parler à celles qui oeuvrent tous les jours à vous combler? Savez-vous que les machines se parlent entre elles? Qu'est-ce qu'elles peuvent bien se raconter? Ça ne vous donne pas envie de savoir? Moi, si... 
 
 <did>Temporisation. Cela peut passer par une musique ou un générique de début.</did>
 
@@ -80,13 +80,13 @@ Pierre Eynard n° de sécurité sociale 1 74 03 198 054, habitant 35, avenue Gam
 		<Acte 1 name="boot">
 
 <scene 1 name="matos.txt">
-<Slash>A mon premier démarrage, on m'avait équipé d'un coeur assez solide, de deux poumons bien fonctionnels, des yeux et des oreilles standards et d'un cerveau dont les connexions arrivaient, semble-t-il, à se faire correctement. Les premiers temps dans la vie, c'est exactement comme quand vous allumez pour la première fois un ordinateur. Vous avez un modèle avec un certain coeur, une certaine mémoire, une certaine capacité graphique ou sonore. Et puis, souvent, on vous préinstalle l'OS pour être sûr que vous arriverez à démarrer la machine correctement si vous n'y connaissez rien. On vous met pleins de petits programmes qui tournent en tâche de fond et que vous ne controlez pas.
-On vous livre tout ça bien emballé, on vous dit comment manipuler la bête et puis vous apprendrez sur le tas. Alors vous rentrez chez vous et vous allez essayer de faire marcher ce truc que vous ne controlez pas et que vous avez peur de casser. Vous avez tellement peur de mal le configurer que finalement, vous préférez ne toucher à rien. De suivre les quelques instructions qu'on a bien voulu vous donner à la lettre et si il y a bug, d'emmener le tout chez un specialiste qui arrivera à décrypter le bug et le fixer, comme on dit. À quel moment vous êtes vous intérressé à ce que tous ces petits programmes font en tâche de fond? Vous êtes-vous demandé qui les écrivaient? Et dans quel but? 
+<Slash>A mon premier démarrage, on m'avait équipé d'un coeur assez solide, de deux poumons bien fonctionnels, d'yeux et d'oreilles standards et d'un cerveau dont les connexions arrivaient, semble-t-il, à se faire correctement. Les premiers temps dans la vie, c'est exactement comme quand vous allumez pour la première fois un ordinateur. Vous avez un modèle avec un certain coeur, une certaine mémoire, une certaine capacité graphique ou sonore. Et puis, souvent, on vous préinstalle le système d'exploitation pour être sûr que vous arriverez à démarrer la machine correctement si vous n'y connaissez rien. On vous met pleins de petits programmes qui tournent en tâche de fond et que vous ne controlez pas.
+On vous livre tout ça bien emballé, on vous dit comment manipuler la bête et puis vous apprendrez sur le tas. Alors vous rentrez chez vous et vous allez essayer de faire marcher ce truc que vous ne controlez pas, qui ne cesse de faire des bruits étranges et que vous avez peur de casser. Vous avez tellement peur de mal le configurer que finalement, vous préférez ne toucher à rien. De suivre les quelques instructions qu'on a bien voulu vous donner à la lettre et si il y a bug, d'emmener le tout chez un specialiste qui arrivera à le débusquer et le fixer, comme on dit. À quel moment vous êtes vous intérressé à ce que tous ces petits programmes font en tâche de fond? Vous êtes-vous demandé qui les écrivaient? Et dans quel but? 
 <silence>
-Êtes-vous libre, lorsque la majorité de vos choix sont provoqué par une succession de pré-configurations que vous n'avez pas choisi et dont vous n'avez même pas conscience? Quels logiciels vous a-t-on installé à votre naissance? Le savez-vous? Est-ce vraiment raisonnable de confier la configuration de ses enfants à des intérêts privés?
+Êtes-vous libre, lorsque la majorité de vos choix sont provoqué par une succession de pré-configurations que vous n'avez pas choisi et dont vous n'avez même pas conscience? Quels logiciels vous a-t-on installé à votre naissance? Le savez-vous? Et surtout, pensez vous que cela soit vraiment raisonnable de confier la configuration de ses enfants à des intérêts privés?
 <silence> 
 Lorsque j'ai eu accès à mon premier ordinateur, j'avais 7 ans. 
-Les autres gamins de ma classe avaient déjà presque tous un portable, une tablette ou un ordinateur - des fois les trois - soit à la maison soit avec eux. Des fois même depuis plusieurs années. Et ils avaient l'air de bien s'amuser avec. Je demandais régulièrement à mes parents pourquoi moi, je n'avais pas le droit d'avoir une machine ou d'utiliser les leurs ? Ils m'ont répondu que la première condition pour pouvoir utiliser une machine, c'est de savoir lire, écrire et compter. Alors j'ai appris. Et j'ai appris vite. La lecture m'a ouvert une première porte fantastique sur le monde. Mon cerveau arrivait à transcrire des signes sur du papier en images et en sons qui se heurtaient dans mon esprit à une cadence folle. C'était fantasique! Pour moi, ce fut une révélation. Ce jour-là, sans le savoir, j'ai appris ce qu'était un code.
+Les autres gamins de ma classe avaient déjà presque tous un portable, une tablette ou un ordinateur - des fois les trois - soit à la maison soit avec eux. Des fois même depuis plusieurs années. Et ils avaient l'air de bien s'amuser avec. Je demandais régulièrement à mes parents pourquoi moi, je n'avais pas le droit d'en avoir une, moi aussi ? Ils m'ont répondu que la première condition pour pouvoir utiliser une machine, c'est de savoir lire, écrire et compter. Alors j'ai appris. Et j'ai appris vite. La lecture m'a ouvert une première porte fantastique sur le monde. Mon cerveau arrivait à transcrire des signes sur du papier en images et en sons qui se heurtaient dans mon esprit à une cadence folle. C'était fantasique! Pour moi, ce fut une révélation. Ce jour-là, sans le savoir, j'ai appris ce qu'était un code.
 J'ai travaillé comme une folle cette année-là. J'adorais l'école. J'apprenais plein de choses nouvelles et puissante. J'adorais l'écriture aussi. Parceque après avoir lu les histoires des autres, je pouvais inventer les miennes... Je n'avais jamais ressenti ça, avant. Cette possibilité de comprendre et de créer... On se sent comme ivre.
 Je passais aisément à la classe supérieur et lorsque je revint à la maison le dernier soir d'école, mes parents m'attendaient à l'étage, dans ma chambre. Sur mon bureau, tronait un enorme paquet cadeau. Je n'eu pas à réfléchir beaucoup pour savoir ce que c'était. Je leur sautai au cou. et je commençai à déchirer le papier, nerveuse d'excitation. Je découvris une magnifique boite noire, un écran, une souris et un clavier. Un nouveau monde d'exploration et de découverte allait s'offrir à moi... 
 </Slash>
@@ -100,12 +100,11 @@ Je passais aisément à la classe supérieur et lorsque je revint à la maison l
 <Père>Très bien, allons manger.
 </dial>
 </flashback>
-<Slash>J'ai passé la plus longue des nuits de ma vie. Évidemment, j'ai essayé de le demarrer lorsque je fus sûre que mes parents s'étaient endormis. Mais je n'arrivais qu'à obtenir un écran noir avec un symbole bizarre et un tiret qui cligotait sans cesse. J'ai essayé d'écrire "démarre" pour qu'il démarre, mais il refusait de m'obéir. Je lui disais :"démarre, c'est un ordre!" (mon père m'avait dit que les ordinateur ne font juste qu'obeir aux ordres qu'on leur donne). Mais le mien ne voulait pas obeir... Dépitée, je retournais me coucher. Je ne comprenais pas. Les ordianteurs de mes amis avaient des écran avec des images dessus. Ils cliquaient sur des trucs et ça faisait des choses. Moi rien... Je finis par m'endormir à force de réfléchir. Le lendemain matin, mon père vint me reveiller à 6H. Après un rapide petit dej, on s'est regardé, on a souris et on est monté en courant à l'étage. 
-
+<Slash>J'ai passé la plus longue des nuits de ma vie. Évidemment, j'ai essayé de le demarrer lorsque je fus sûre que mes parents s'étaient endormis. Mais je n'arrivais qu'à obtenir un écran noir avec un symbole bizarre et un tiret qui cligotait sans cesse. J'ai essayé d'écrire "démarre" pour qu'il démarre, mais il refusait de m'obéir. Je lui disais :"démarre, c'est un ordre!" (mon père m'avait dit que les ordinateur ne font juste qu'obeir aux ordres qu'on leur donne). Mais le mien ne voulait pas obeir... Dépitée, je retournais me coucher. Je ne comprenais pas. Les ordianteurs de mes amis avaient des écrans avec des images dessus. Ils cliquaient sur des trucs et ça faisait des choses. Moi rien... Je finis par m'endormir à force de réfléchir. Le lendemain matin, mon père vint me reveiller à 6H. Après un rapide petit dej, on s'est regardé, on a souris et on est monté en courant à l'étage. 
 <flashback>
 <dial>
 <Père>As-tu essayé de l'allumer?
-<Slash> Non.
+<Slash>Non.
 <Père>Ne me ment pas. Je sais que tu l'a allumé.
 <Slash>Comment tu le sais?
 <Père>Pourquoi crois-tu que je t'ai demandé de ne pas le faire? Exactement pour cette raison. Pour que tu tente de l'allumer en secret.
@@ -114,13 +113,13 @@ Je passais aisément à la classe supérieur et lorsque je revint à la maison l
 <Slash>Je lui ai dit de démarrer mais il a pas voulu. Pourtant tu m'as dit que les machines faisaient excatement ce qu'on leur disait de faire!
 <Père>Encore faut-il savoir leur parler. Si tu rentres dans une boulangerie dans un pays où tu ne parles pas la langue, faire comprendre que tu veux une "baguette pas trop cuite" et obtenir ce que tu veux, va vite devenir assez long, tu ne crois pas?
 <Slash>Mais du coup, il aurait fallu que je lui dise quoi?
-<Père>On va surtout commencer au tout début. Qu'est-ce qu'un ordinateur? Pour que tu comprennes, tu va imaginer que tu es une reine. tu es la reine de ton royaume mais tu n'a pas encore de château. Tu va donc vouloir t'en acheter un. Et là va se poser le premier problème. Car ton château va avoir besoin de pas mal de choses que tu ne sais pas fabriquer pour tenir debout et fonctionner. Suivant ce que tu veux faire avec ton château, tu n'auras pas besoin des mêmes machines dans ta salle des machines. Tu comprends?
+<Père>On va surtout commencer au tout début. Qu'est-ce qu'un ordinateur? Pour que tu comprennes, tu va imaginer que tu es une reine. Tu es la reine de ton royaume mais tu n'a pas encore de château. Tu va donc vouloir t'en acheter un. Et là va se poser le premier problème. Car ton château va avoir besoin de pas mal de choses que tu ne sais pas fabriquer pour tenir debout et fonctionner. Suivant ce que tu veux faire avec ton château, tu n'auras pas besoin des mêmes machines dans ta salle des machines. Tu comprends?
 <Slash>Mon ordinateur, c'est mon château?
 <Père>C'est à la fois, ton château et ton domaine. Ce qu'il faut te demander en premier, c'est ce que tu veux faire avec ton château. Il existe des centaines de modèles de salles des machines que tu peux acheter. Cette salle des machines est composée principalement du coeur, de la mémoire, et d'un robot qui te permet de voir l'intérieur de ton château une fois que tu l'aura construit.
 C'est ce qu'on appelle le processeur, la mémoire morte et vive, et la carte graphique. Ces trois éléments sont connecté à la carte-mère qui va s'occuper de distribuer les ordres aux différentes machine. Elle reçoit ses ordres du BIOS, qui est le robot qui est chargé de donner les ordres aux différentes autres machines en fonction de ce qu'il a besoin. Voilà la base de ton château. Ce sont les fondations qui te permettront de le faire fonctionner. Il y a bien d'autres choses mais tu les apprendra en temps voulu.
 <Slash>Je comprends... On l'allume?
 <Père>Encore un peu de patience. Donc maintenant que tu as ta salle des machines, il te faut construire ton château. Les murs, les pièces dont tu vas avoir besoin pour utiliser ta machine, et recruter tes robots pour gérer ton château. N'oublie pas que tu es la reine et que tu dois toujours être obeie par tes robots. Toujours. On va d'abord parler de la façon dont ton château va être construit.
-En fonction de ta salle des machines, tu va pouvoir construire des modèles de château. La tienne te permet de construire n'importe quel modèle de château existant aujourd'hui. Il existes deux grands types de modèles de château. Ceux qui appartiennent à des marques et qu'ils te louent. Et ceux qui ont été fait par des gens comme toi et moi et qui te le donnent. La principale différence c'est que pour les marques, les architectes ont décidé de cacher les plans. De les rendre top secret. Tu ne peux pas les modifier ni même les voir. Tu achète ton château mais tu ne sais pas ce qu'il y a entre les murs et comment ils ont été fait. Dans l'autre cas, les architectes ont décidé de donner les plans à tout le monde. Du coup, chacun peut aller voir les plans, les modifier, les améliorer ou les réparer, par exemple. 
+En fonction de ta salle des machines, tu va pouvoir construire des modèles différents de château. La tienne te permet de construire n'importe quel modèle de château existant aujourd'hui. Il existes deux grands types de modèles de château. Ceux qui appartiennent à des marques et qu'ils te louent. Et ceux qui ont été fait par des gens comme toi et moi et qui te le donnent. La principale différence c'est que pour les marques, les architectes ont décidé de cacher les plans. De les rendre top secret. Tu ne peux pas les modifier ni même les voir. Tu achète ton château mais tu ne sais pas ce qu'il y a entre les murs et comment ils ont été fait. Dans l'autre cas, les architectes ont décidé de donner les plans à tout le monde. Du coup, chacun peut aller voir les plans, les modifier, les améliorer ou les réparer, par exemple. 
 <Slash>Quel est le meilleur château, du coup?
 <Père>Il n'y en a pas de meilleur. Tout dépend de ce que tu veux faire avec ton château. Tout dépend aussi si tu veux vraiment être la reine... 
 <Slash>Comment on fait pour construire son château, alors?
@@ -128,11 +127,11 @@ En fonction de ta salle des machines, tu va pouvoir construire des modèles de c
 <did>La procédure d'installation doit être vue en direct. Si le flashback est en video, on incluera cette séquence dans le film de manière à ce que les spectateurs suivent la procédure Le systeme d'exploitation doit être une distribution GNU/Linux au choix du metteur en scène et des techniciens. les références à cette distribution seront, jusqu'à la fin du texte, indiqué par <distrib></did>
 </dial>
 </flashback>
-<Slash>Mon premier château s'appelait <distrib>. C'est avec lui que j'ai fait mes premiers pas. Mon père m'a tout expliqué, patiemment. Il me racontait comment utiliser ma machine. Avec des mondes merveilleux remplis de reines et de rois, de marchands, d'un perroquet, d'un suiveur, de robots en tout genre. J'avais vraiment cette sensation d'être chez moi et d'être au commande d'une armée de robots qui exécutaient mes désirs. Et j'aimais ça. 
+<Slash>Mon premier château s'appelait <distrib>. C'est avec lui que j'ai fait mes premiers pas. Mon père m'a tout expliqué, patiemment. Il me racontait comment utiliser ma machine. Avec des mondes merveilleux remplis de reines et de rois, de marchands, d'un perroquet, d'un suiveur, de robots en tout genre. J'avais vraiment cette sensation d'être chez moi et d'être au commande d'une armée de droïdes qui exécutaient mes désirs. Et j'aimais ça. 
 <Elise Dumont>Ça va nous mener où, vos conneries? On est là pour vous écouter déblatérer votre vie? C'est ça? 
 <Slash>Calmez-vous. Elise, je vous en prie. Souvenez-vous : la patience...
 <Elise Dumont>Je trouve qu'on a été suffisament patients jusque là.
-<Slash>Je vous reconnait bien, Elise. Ça n'a jamais été votre fort, la patience, n'est-ce pas? Voulez-vous que l'on parle de ce que vous pensez vraiment de votre famille?
+<Slash>Je vous reconnais bien, Elise. Ça n'a jamais été votre fort, la patience, n'est-ce pas? Voulez-vous que l'on parle de ce que vous pensez vraiment de votre famille?
 <Elise Dumont>Comment osez-vous?
 <Slash>Vous êtes chez moi, Elise. Et donc vous obeissez à mes règles. Je vous ai invité dans mon château. Et si je ne fais pas payer mes invités, ça ne veut pas dire qu'ils font ce qu'ils veulent. Vous avez signé un contrat pour rentrer ici. Vous l'avez lu ce contrat?
 <Elise Dumont>Quel contrat? De quoi parlez-vous? 
@@ -144,8 +143,7 @@ En fonction de ta salle des machines, tu va pouvoir construire des modèles de c
 <silence>
 <Slash>L'habitude, c'est ce qui peut me permettre de vous étudier et de percevoir vos failles. C'est ce qui vous pousse à faire des erreurs. Quand on vous parle de piratage, c'est ça que vous devez retenir : ce sont vos habitudes qui, la plupart du temps, vous trahissent. Un hacker bien entrainé, n'a pas besoin d'énormément d'outil pour avoir accès à ce que vous voulez cacher. Il doit juste déduire à partir de ce qu'il sait de votre double numérique. Vos historiques de recherches, de connections et de communication renseignent déjà beaucoup sur votre vie. En creusant un peu, il est possible de rentrer dans votre château, voir de le modifier sans que vous en ayez conscience. Tout cela, c'est parce que vous êtes aveugle et muet. Vous ne savez ni lire, ni écrire. Et vous ne pouvez donc pas commander votre machine. Vous avez besoin de quelqu'un pour ça. Et ça tombe bien, des entreprises sont là, prête à vous servir pour peu que ces données, vous les leurs donniez à eux... 
 <silence>
-<Slash>Vous savez comment on peut être sûr que Facebook ne nous espionne plus? En faisant croire à notre machine qu'elle EST Facebook. Tout simplement. Je vais vous donner le tuyau. Vous repérez sur votre ordinateur, le fichier "hosts". Vous l'éditez, et vous écrivez à l'intérieur : "127.0.0.1 : www.facebook.fr" puis en dessous "127.0.0.1 : www.facebook.com". De cette manière, vous dites à votre machine : "À partir de maintenant, à chaque fois que tu devras te connecter à l'adresse "www.facebook.fr" ou "www.facebook.com", tu te connecteras à toi-même. Car tu ES ces deux adresses." 
-La machine étant programmée pour exécuter les ordres, sans poser de question, fera le travail correctement. De cette manière, votre ordinateur ne pourra plus se connecter aux véritables ordinateurs qui se cachent derrière Facebook. 
+<Slash>Vous savez comment on peut être sûr que Facebook ne nous espionne plus? En faisant croire à notre machine qu'elle EST Facebook. Tout simplement.
 <silence>
 <Slash>Mais revenons à notre histoire.  
 </scene1>
@@ -154,7 +152,7 @@ La machine étant programmée pour exécuter les ordres, sans poser de question,
 <did>Le même bureau que dans le premier flashback</did>
 <Père>Qu'est-ce qu'on vient de faire?
 <Slash>On vient de construire les murs et les salles du château.
-<Père>Très bien. Ce que l'on appelle un systeme d'exploitation. C'est une version d'un château déjà fonctionnel. Il y a toutes les salles et tous les robots qui permettent de faire les choses dont on a besoin. On ne réinvente pas la roue, non plus. Maintenant, comme c'est mon château, je vais te créer un petit château à toi où tu sera la reine mais à l'interieur du mien. Pour ça, je vais appeler mon maître d'hotel, qui se charge de préparer tout ce qu'il faut pour les invités. Et je vais lui demander de te fabriquer une salle à toi avec une serrure pour que seul toi ait la clé pour y rentrer. Ce robot il s'appelle adduser. Je vais donc l'appeler et lui demander tout ça. Je tape donc "adduser...".
+<Père>Très bien. Ce que l'on appelle un systeme d'exploitation. C'est une version d'un château déjà fonctionnel. Il y a toutes les salles et tous les robots qui permettent de faire les choses dont on a besoin. On ne réinvente pas la roue, non plus. Maintenant, comme c'est mon château, je vais te créer un petit château à toi où tu sera la reine mais à l'interieur du mien. Pour ça, je vais appeler mon maître d'hôtel, qui se charge de préparer tout ce qu'il faut pour les invités. Et je vais lui demander de te fabriquer une salle à toi avec une serrure pour que seul toi ait la clé pour y rentrer. Ce robot il s'appelle adduser. Je vais donc l'appeler et lui demander tout ça. Je tape donc "adduser...".
 <silence>
 <Père>Il faut que tu te trouve un nom. Un nom de reine. 
 <silence>
@@ -163,9 +161,9 @@ La machine étant programmée pour exécuter les ordres, sans poser de question,
 <Slash>On peut aller dans mon bureau?
 <Père>Bien sûr, allons-y. Alors on va sortir du mien. Ensuite, il faut que tu rentre ton mot magique pour pouvoir ouvrir la porte. Voilà, on est dans ton bureau.
 <Slash>Ouahh! Il est beau...
-<Père> Tu veux changer la tapisserie? tiens regarde, c'est par là. Voilà. Tu cherchera toute seule, tu verras que tu peux tout modifier. Je vais te présenter quelques robots qui sont là pour toi. Alors pour les appeler, tu ouvre un terminal, comme ceci. ce robot, s'appelle "Bash" et c'est grâce à lui que tu va pouvoir donner des ordres à tous les autres. Tu vois ici, il nous dit que c'est bien toi, dans mon château, et tu es dans ton espace et même dans ton bureau (la pièce). On pourrait dire aussi ta chambre. 
+<Père> Tu veux changer la tapisserie? tiens regarde, c'est par là. Voilà. Tu cherchera toute seule, tu verras que tu peux tout modifier. Je vais te présenter quelques robots qui sont là pour toi. Alors pour les appeler, tu ouvre un terminal, comme ceci. ce robot, s'appelle "Bash" et c'est grâce à lui que tu va pouvoir donner des ordres à tous les autres. Tu vois ici, il nous dit que c'est bien toi, dans mon château, et que tu es dans ton espace et même dans ton bureau (la pièce). On pourrait dire aussi ta chambre. 
 Le premier robot que je veux te présenter c'est ton perroquet. il s'appelle "echo" et il répète tout ce que tu lui dit. Tu vois si je tape "echo "salut Slash"", il me réponds.
-<Slash>Salut Slash... Eyh, salut echo!
+<Slash>Salut Slash... Eyh, salut Echo!
 <Père>Il te sera utile pour pleins de choses tu verra. L'autre robot que je veux te présenter, c'est ton suiveur. Ton Suiveur est là pour te rappeler où tu es dans le château. Si tu ne sais plus dans quelle salle tu te trouve et que tu es perdue, appelle-le et il te le dira. il s'appelle "pwd"
 <Slash>pwd? c'est pas un nom, ça!
 <Père>Pourquoi pas? Tu n'auras qu'à lui donner un surnom si tu veux. C'est pas un problème. tiens essaye de l'appeler.
@@ -178,22 +176,31 @@ Le premier robot que je veux te présenter c'est ton perroquet. il s'appelle "ec
 <Slash>Pardon ls. 
 <Père>Regarde, il te dit que tu as tout ça dans ton bureau. Tu as des choses et tu as des portes vers d'autres salles. Par exemple, la salle "images" où tu peux conserver tes photos ou tes dessins. Tu vois, les portes sont représentés par ce symbole. Tu voudrais bien pouvoir y rentrer. Mais pour le moment, tu n'a pas rencontré le guide. Le guide te permet de te déplacer. tu ne peux pas aller dans des salles de ton château sans lui. Tu peux y envoyer des robots sans sortir de ton bureau mais si tu veux te rendre dans une salle, tu auras besoin de lui. il s'appelle "cd".
 <Slash>Salut cd! Comment je vais dans ma salle des images?
-<Père>il faut que tu lui dise où aller. Pour ça tu vas donc écrire "cd /images". 
+<Père>il faut que tu lui dise où aller. Pour ça tu vas donc écrire "cd images". 
 <Slash>Super! 
-<Père>Si tu veux sortir, tu vas lui dire ".."
+<Père>Si tu veux sortir, tu vas lui dire "Point point"
 <Slash -éclate de rire->Point point!
 <Père>Ça veut dire "reviens en arrière".
 <Slash>cd, Point! Point!
 <Père>Maintenant, si tu veux construire une nouvelle salle, tu va avoir besoin du constructeur de salles. Il s'appelle "mkdir". Pour construire une nouvelle salle vide, il suffit de l'appeler et de lui dire le nom que tu veux donner à cette salle. Essaie de te créer une nouvelle salle.
-<Slash>je vais créer une salle "peluche" pour ranger mes peluches.
+<Slash>Je vais créer une salle "peluche" pour ranger mes peluches.
 <Père>Parfait donc tu va appeler...
-<Slash>Mkdir, créer moi une salle "peluche", s'il te plaît?
+<Slash>Mkdir, créé moi une salle "peluche", s'il te plaît?
 <Père>Voilà, tu as une salle toute neuve. Si tu veux la détruire, tu appelle "rmdir" et tu lui donne le nom de ta salle, il ira te la détruire. tu as compris? 
 <Slash>compris! Cd, on y va! echo, tu viens avec nous!
 </flashback>
 <Slash>Vous devinez la suite, j'imagine. j'ai passé le reste de ma journée et de ma nuit à me balader dans les salles de mon château accompagné de mon guide, de mon suiveur (à qui je demandais constamment où j'étais), de mon intendant (qui me lista cent fois les différentes choses que j'avais dans mon château) et de mon perroquet (qui répétait ce que je lui disais de répéter). J'ai créé et détruit des dizaines de salles. Je me suis perdue dans le dédales des couloirs. J'ai changé quinze fois la tapisserie. Et j'ai adoré ça! j'avais vraiment l'impression d'être dans un endroit vraiment à moi. Où personne ne pouvait me dire ce que je devais faire ou pas. Même mes parents n'avaient pas la clé de mon château. J'étais la seule, à pouvoir y entrer. j'entrevoyais l'infinité des possibilités que cet objet allait pouvoir m'offrir. 
 <silence>
-<Slash>À l'école, le fait que je n'ai toujorus pas de téléphone portable succitait la raillerie de certains de mes camarades de classe. Il parlaient de choses que je ne comprenais pas. Mais dorénaveant, j'allais pouvoir leur rétorquer, droit dans les yeux : "Ouais, mais moi, j'ai un château où il y a que moi qui aie la clé avec pleins de salle et puis, j'ai pleins de robots qui m'obeissent et même un perroquet!". Souvent, ça leur clouait le bec.
+<Slash>À l'école, le fait que je n'ai toujours pas de téléphone portable succitait la raillerie de certains de mes camarades de classe. Il parlaient de choses que je ne comprenais pas. Mais dorénaveant, j'allais pouvoir leur rétorquer, droit dans les yeux : "Ouais, mais moi, j'ai un château avec MA clé que même mes parents ils l'ont pas, avec pleins de salle dedans et puis, j'ai pleins de robots qui font ce que je veux et même un perroquet!". 
+Souvent, ça leur clouait le bec. Curieusement, c'est surtout le perroquet qui retenait leur attention. J'ai même des camarades de classe qui ont fait un scandale chez eux en demandant à leurs parents pourquoi eux, ils n'avaient pas le droit d'avoir un perroquet dans leur ordinateur ou leur téléphone...
+<silence>
+<Slash>L'été a avancé. Mon monde s'est étoffé. Mon armée de robots a grandi. J'avais rencontré la copiste, le Monsieur-je-sais-tout, le forgeron, l'écrivain, l'assistant-peintre et des dizaines d'autres. En deux mois, j'avais appris à administrer correctement mon ordinateur... 
+Petite astuce : si vous ne voulez plus dépenser d'argent en maintenance informatique, laissez votre gamin devant un ordinateur tout un été en lui racontant une histoire où il est le roi...
+Bon d'accord, il ne verra pas beaucoup le soleil... Mais vous ne payerez plus de dépanneur informatique de votre vie. Pensez-y...
+De nos jours, apprendre à un gamin à se servir correctement d'une machine dans le but de pouvoir s'exprimer librement est une question de salubrité publique.
+
+  
+
 
 
 
