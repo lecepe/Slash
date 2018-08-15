@@ -308,8 +308,10 @@ machine qu'elle EST Facebook. Tout simplement.
 <Slash>Mais revenons à notre histoire.  
 </scene1>
 
-<scene2 name="bootloader">
+	<scene2 name="bootloader">
+
 <did>Le même bureau que dans le premier flashback</did>
+
 <Père>Qu'est-ce qu'on vient de faire?
 <Slash>On vient de construire les murs et les salles du château.
 <Père>Très bien. Ce que l'on appelle un systeme d'exploitation. C'est une version d'un château déjà 
@@ -402,10 +404,67 @@ le Monsieur-je-sais-tout, le forgeron, l'écrivain, l'assistant-peintre et des d
 mois, j'avais appris à administrer correctement mon ordinateur... 
 Petite astuce : si vous ne voulez plus dépenser d'argent en maintenance informatique, laissez votre gamin 
 devant un ordinateur tout un été en lui racontant une histoire où il est le roi...
-Bon d'accord, il ne verra pas beaucoup le soleil... Mais vous ne payerez plus de dépanneur informatique 
-de votre vie. Pensez-y...
-De nos jours, apprendre à un gamin à se servir correctement d'une machine dans le but de pouvoir 
+De nos jours, apprendre à un enfant à se servir correctement d'une machine dans le but de pouvoir 
 s'exprimer librement est une question de salubrité publique.
+<Sophie Veille>On s'exprime librement, mademoiselle.
+<Slash>Non, Sophie, vous ne vous exprimez pas librement. Partiellement du moins. Mais sachez que le simple
+fait de savoir que vous êtes sur écoute suffit à éliminer de votre système mental, une quantité énorme de 
+logiciels dont vous supposez que l'utilisation vous fera passer pour suspecte aux yeux des autres.
+<Sophie Veille>C'est des conneries! On ne me surveille pas, moi! Je ne fais rien de mal! 
+<Slash>Oh que si, on vous surveille, Sophie. Surtout si vous ne faîtes rien de mal. C'est plus facile de
+vous faire chanter. C'est plus facile de vous "profiler". En très peu de temps, je suis capable de dresser un
+portrait de vous qui vous étourdirez tant il est précis. Si, pour une raison ou une autre vous déviez de vos
+habitudes, je le remarquerai immédiatement. 
+<silence>
+<Slash>Vous n'avez pas besoin de savoir que je vous traque, Sophie, pour vous sentir traquée. Vous le savez,
+au fond de vous, n'est-ce pas? Comme tout le monde, vous avez entendu parlé d'un certain Edward Snowden.
+Comme tout le monde vous avez entendu dire que "La NSA nous espionne". En vérité, vous avez beau le savoir,
+vous n'y croyez pas. Vous vous dites que vous n'avez ren à vous reprocher et que votre vie doit être bien
+ennuyeuse à espionner. Mais vous avez tort. Vous avez tous des choses à vous reprocher et votre vie est 
+passionante à fouiller. Votre manière de vous exprimer dit déjà beauoup de vous...
+<Sophie Veille>Ça suffit! Combien de temps devront-nous encore entendre vos conneries? Je me fous que la 
+NSA m'espionne. Par contre, vous, je ne m'en fous pas. 
+<Slash>Pourquoi?
+<Sophie Veille> Je ne sais pas. Parceque vous êtes devant moi. Et que j'ai envie de vous péter la gueule.
+Parce que vous n'avez pas le droit de faire ça. 
+<Slash>C'est fascinant ce que vous me dites, Sophie. 
+<Sophie Veille>Je me fous que ce soit fascinant ou pas. J'ai envie de vous pêter la gueule. 
+<Slash>Allez-y, Sophie. Ça ne changera rien. Vous feriez mieux de m'écouter tranquillement. Asseyez-vous,
+je vous en prie.
+<Sophie Veille>Non. Je ne m'assoit pas. Je me barre.
+<did>Elle se lève et se dirige vers la sortie.</did>
+<Slash>Emerdald.
+<did>Sophie s'arrête net. Elle ne bouge plus.
+<Sophie Veille>Vous êtes vraiment une pute.
+<Slash>Je ne vous ai pas demandé d'argent... 
+<silence>
+<Slash>Si ça venait à devenir public, Comment croyez-vous que les autres vous verront? A commencer par votre
+propre famille.
+<Sophie Veille>Je pensais que cette histoire était fini... 
+<Slash>Rien n'est jamais vraiment fini.
+<Sophie Veille>Je ne sais pas comment vous avez eu accès à ca, mais c'est dégueulasse.
+<Slash>Si ça peut vous rassurer, sachez que j'ai supprimé le fichier là ou je l'ai trouvé. J'en ai une copie.
+La dernière copie. 
+<Sophie Veille>Etvous voulez en faire quoi? Raconter cette histoire, ici? Que tout le monde sache? 
+<Slash>Je ne pense pas avoir besoin de ça.
+<Sophie Veille>Ne vous emmerdez pas. Je m'en charge. Emerald était le nom d'une...
+<did>un autre spectateur se lève précipitamment et lui coupe la parole</did>
+<Yan>Non! Ne lui donnez pas ce qu'elle veut! Ne vous donnez pas en spectacle comme ça! Ce que vous
+avez fait ne regarde que vous. Je ne sais pas qui est cette Emerald et je ne veut pas le savoir. Et je pense
+que toutes les personnes ici présentes seront d'accord avec moi. 
+<Slash>Je pense que vous devriez écouter ce Monsieur. D'ailleurs, c'est étrange. Je ne vous remet pas...
+<Yannn>Hervé. 
+<did>Slash cherche dans son ordinateur. Elle voit un dossier appelé "Hervé Garnier". Elle a un sourire et
+ferme la fenêtre</did>
+<Slash>Vous en savez un rayon sur le sujet, Hervé, n'est-ce pas?
+<Yan>Oui. C'est pour ça qu'il faut que vous me fassiez confiance. Ne dites rien! 
+<did>Sophie a un instant d'hésitation. Puis elle se dirige vers son siège lentement. Elle semble avoir reçu
+un choc. Puis Yan se rassoit aussi.
+<Slash>Tout le monde est calmé? Bien nous allons pouvoir reprendre notre récit.
+
+		<scene2 name="Chmod 700">
+
+
 
   
 
