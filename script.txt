@@ -21,6 +21,8 @@ dérober toutes leurs données personnelles afin d'être sûre d'avoir une compl
 </synopsis>
 
 <Personnages = 4>
+		<Slash>Entre 25 et 30 ans.
+</personnages>
 
 <!--Le public doit remplir un formulaire d'inscription simple (nom, prenom, mail) pour pouvoir acceder 
 au spectacle. L'entrée est gratuite à cette condition. Elle permettra une collecte de données rapide pour 
